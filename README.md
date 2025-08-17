@@ -4,7 +4,7 @@
 
   <p>A cat enthusiast exploring the digital world.</p>
 
-  <img src="https://raw.githubusercontent.com/OliviaSmith3/OliviaSmith3/main/assets/cat-banner.png" alt="Cat Banner" width="800">
+
 
   <p>
     "Time spent with cats is never wasted." - Sigmund Freud
