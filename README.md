@@ -1,21 +1,48 @@
-# Hi there 👋, I'm Olivia Smith (OliviaSmith3)
+<div align="center">
 
-A passionate [Your Field/Area of Interest, e.g., aspiring developer, data enthusiast, creative writer] with a soft spot for cats! 🐈
+  <h1>Hi there! 👋 I'm OliviaSmith3</h1>
+
+  <p>A cat enthusiast exploring the digital world.</p>
+
+  <img src="https://raw.githubusercontent.com/OliviaSmith3/OliviaSmith3/main/assets/cat-banner.png" alt="Cat Banner" width="800">
+
+  <p>
+    "Time spent with cats is never wasted." - Sigmund Freud
+  </p>
+
+</div>
+
+<br>
 
 ## About Me
 
-*   I'm currently learning [What you're learning, e.g., Python, React, data science].
-*   I enjoy [Your Hobbies, e.g., reading fantasy novels, playing video games, hiking].
-*   My favorite thing in the world is [Something you love, e.g., a purring cat, a good cup of coffee, a beautiful sunset].
+*   🐱  Absolutely obsessed with cats!  Send me your favorite cat pictures!
+*   📚  Currently exploring [mention a specific area of interest, e.g., web development, data science, graphic design].
+*   🌱  Always learning and eager to collaborate on interesting projects.
+*   ✨  Believer in kindness, creativity, and the power of a good cup of tea.
 
-## Connect with Me
+## Skills
 
-*   [Your LinkedIn Profile](Your LinkedIn URL)
-*   [Your Twitter Profile](Your Twitter URL)
-*   [Your Personal Website](Your Website URL)
+*   [Add a few skills here, even if you're just starting out.  Examples: HTML, CSS, JavaScript, Python, Git, etc.]
+*   [Skill 2]
+*   [Skill 3]
 
-## Fun Fact
+## Get in Touch
 
-I can [A fun skill or fact about yourself, e.g., speak three languages, play the ukulele, identify any cat breed].
+<p align="center">
+  <a href="[Your LinkedIn Profile URL]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="[Your Twitter Profile URL]" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:[Your Email Address]">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
-Thanks for visiting! ✨
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=OliviaSmith3&style=flat-square" alt="Profile Views" />
+</div>
